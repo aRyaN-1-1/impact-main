@@ -1,0 +1,6 @@
+# Replit internal files to ignore
+.local/
+.DS_Store
+*.bin
+
+node_modules
